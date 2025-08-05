@@ -1,0 +1,16 @@
+Data Preparation (Preprocessing):
+step 1:
+Tokenization: Breaking down into smaller units (tokens) such as words, phrases, or subword units.
+
+step 2:
+Stemming/Lemmatization: Reducing words to their base or root form
+(eg: "running", "ran", "runs" all reduce to "run")
+
+step 3:
+Removing Stopwords: Eliminating common words (eg: "the","is","and") that often carry little semantic meaning.
+punctuation Removal: Removing punctuation marks.
+
+
+Lowecasing: Converting all text to lowercase for uniformity.
+Stopword removal: Eliminating common words(eg: the, and, a) that do not add much value to the meaning of the text.
+Text Noormalization: Standardized text formatting (e.g., removing extra spaces, punctuation, etc.).
